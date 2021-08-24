@@ -1,0 +1,7 @@
+#img-bg {
+    background-image: url(../../assets/img/laptop-2298286_1280.png);
+    min-height: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
